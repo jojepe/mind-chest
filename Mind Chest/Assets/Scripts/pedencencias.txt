@@ -1,0 +1,6 @@
+﻿1 - Conversa com sql
+2 - Menu de Jogo
+3 - musica tocar em loop
+4 - UI de itens
+5 - dialogo com npc
+6 - no mínimo 4 plantações
